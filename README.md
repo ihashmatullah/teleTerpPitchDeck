@@ -107,7 +107,7 @@ features. Launch the product in a specific geographic location.
 ![alt text](https://github.com/ihashmatullah/teleTerpPitchDeck/blob/main/Picture1.png?raw=true)Customer survey has been conducted, we understood
 our market scope and also made the MVP available, this link redirects to
 full survey result and below are some key insights from our survey:
-![](media/image2.png)
+![alt text](https://github.com/ihashmatullah/teleTerpPitchDeck/blob/main/Picture2.png?raw=true)
 
 2nd year – Expand the product geographically. Add more desirable
 features such as translators’ certification programs: verified accounts
