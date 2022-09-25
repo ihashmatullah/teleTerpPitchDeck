@@ -104,7 +104,7 @@ that needs translation service from the provider using our platform.
 business model. Build the full-fledged product with all essential
 features. Launch the product in a specific geographic location.
 
-![](media/image1.png)Customer survey has been conducted, we understood
+![alt text](https://github.com/ihashmatullah/teleTerpPitchDeck/blob/main/Picture1.png?raw=true)Customer survey has been conducted, we understood
 our market scope and also made the MVP available, this link redirects to
 full survey result and below are some key insights from our survey:
 ![](media/image2.png)
